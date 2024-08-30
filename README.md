@@ -24,3 +24,17 @@ For the HTML/CSS/JS class I'm covering
 
 10. carousel image 3:
 ![3](https://github.com/user-attachments/assets/9ead51c7-02d8-4350-a3bd-739afaf4e216)
+
+11. carousel image 01:![01](https://github.com/user-attachments/assets/dd84e46a-dc0e-4362-8639-c56bcc6ae7ca)
+
+12. carousel image 02: ![02](https://github.com/user-attachments/assets/7ed66c93-8503-44dd-98e3-3c36beef9004)
+
+13. carousel image 03: ![03](https://github.com/user-attachments/assets/ab63ca01-7895-4589-9d94-512fe832aafe)
+
+14. carousel image 04:![04](https://github.com/user-attachments/assets/763c14b5-621d-497c-b4bc-2671218f657b)
+
+15. carouse image 05: ![05](https://github.com/user-attachments/assets/36f8d90f-3eaf-48d9-ad90-d6774199db59)
+
+16. carousel image 06: ![06](https://github.com/user-attachments/assets/9ff20063-7020-49dc-998e-512e3982fc30)
+
+
