@@ -15,3 +15,12 @@ For the HTML/CSS/JS class I'm covering
 6. shawarma: https://www.recipetineats.com/tachyon/2017/01/Chicken-Shawarma-Wrap_3.jpg?resize=900%2C1125&zoom=1
 
 7. bread: https://tastesbetterfromscratch.com/wp-content/uploads/2020/03/Bread-Recipe-5-2.jpg
+
+8. carousel image 1: 
+![1](https://github.com/user-attachments/assets/350d819f-6bc2-4638-9609-ef9c4637b874)
+
+9. carousel image 2:
+![2](https://github.com/user-attachments/assets/8e65adff-90b3-4c7f-a9d7-b75e5c9fd535)
+
+10. carousel image 3:
+![3](https://github.com/user-attachments/assets/9ead51c7-02d8-4350-a3bd-739afaf4e216)
