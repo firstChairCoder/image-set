@@ -37,4 +37,7 @@ For the HTML/CSS/JS class I'm covering
 
 16. carousel image 06: ![06](https://github.com/user-attachments/assets/9ff20063-7020-49dc-998e-512e3982fc30)
 
+17. keyboard bg: 
+![background](https://github.com/user-attachments/assets/9f7cb537-7ebb-4e4b-9bb9-1fe732077fb2)
+
 
